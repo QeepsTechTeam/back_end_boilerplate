@@ -1,4 +1,8 @@
 # back_end_boilerplate
+<<<<<<< HEAD
+=======
+# back_end_boilerplate
+>>>>>>> 3993bba (fix(test))
 
 ### STEPS
 

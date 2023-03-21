@@ -11,7 +11,7 @@ const getAssets = withErrorHandler(async (req, res) => {
     /// const Assets = await Asset.find({city: "Paris"})
 
     // Return everything
-    const assets = await assetService.getAssets(req)
+    const assets = await assetService.getAssets()
     return assets;
 })
 
