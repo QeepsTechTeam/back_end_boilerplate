@@ -1,5 +1,4 @@
 # back_end_boilerplate
-# tech-application-service
 
 ### STEPS
 
