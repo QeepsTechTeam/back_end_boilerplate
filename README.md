@@ -53,4 +53,5 @@ npm run dev
 ```
 
 ## [Architecture]
-[Lucid](https://lucid.app/lucidchart/df087280-cfca-4058-a1a6-aef71da27851/edit?view_items=cqzFVleeBjpu%2CHozFS~_M_FTh%2CdwzFl.E7N3Xy%2CJszF6fIOSOpe%2CapzFRSfEnThB%2CEqzFs-lXdlaX%2CEmzFOVAIa61X%2CqnzFWnYXR_W5%2CynzF-k..PPJ.%2CynzFkJVm2WpH%2CiwzF6VQUi7to%2CmwzF6BLgCQ.~%2CDvzFIJe.4N9d%2CkvzFPHZuTmxS%2C5vzFKR1XNOau%2CTrzF7ajd.yHH%2C6rzF8B6UPmDB%2C2rzFVno~2L_Q&invitationId=inv_a2f0c5fe-fd16-4fd1-a406-087ae247e562) 
+<img width="723" alt="Capture d’écran 2023-03-21 à 14 10 28" src="https://user-images.githubusercontent.com/92106469/226616018-669b9154-05c5-4eb2-bb93-263884873403.png">
+
