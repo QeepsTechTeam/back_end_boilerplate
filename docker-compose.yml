@@ -1,0 +1,18 @@
+version: '3.7'
+
+services:
+  mongo:
+    image: mongo:latest
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - qeeps-mongo-data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+      MONGO_INITDB_DATABASE: qeeps
+
+volumes:
+  qeeps-mongo-data:
+    driver: local
